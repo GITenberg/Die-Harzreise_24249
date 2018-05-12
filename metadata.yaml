@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '26347'
     url: http://www.gutenberg.org/2009/agents/26347
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24249#Die-Harzreise
 gutenberg_bookshelf:
 - DE Lyrik
 - DE Prosa
